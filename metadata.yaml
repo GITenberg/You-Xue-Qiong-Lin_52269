@@ -1,0 +1,26 @@
+_repo: You-Xue-Qiong-Lin_52269
+_version: 0.0.1
+alternative_title: You Xue Qiong Lin
+creator:
+  author:
+    agent_name: Cheng, Yunsheng
+    aliases:
+    - 程允升
+    - Cheng, Dengji
+    gutenberg_agent_id: '46753'
+    url: http://www.gutenberg.org/2009/agents/46753
+description: ''
+gutenberg_issued: '2016-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52269'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Chinese language -- Readers'
+- GITenberg
+title: 幼學瓊林
+url: http://www.gutenberg.org/ebooks/52269
